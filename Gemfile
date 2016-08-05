@@ -51,3 +51,6 @@ group :development do
 end
 
 gem 'devise'
+
+#Add boostrap library for styles
+gem 'bootstrap-sass', '~> 3.3.6'
