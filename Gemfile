@@ -50,7 +50,11 @@ group :development do
   gem 'spring'
 end
 
+<<<<<<< HEAD
 #Add boostrap library for styles
 gem 'bootstrap-sass', '~> 3.3.6'
 
 
+=======
+gem 'devise'
+>>>>>>> user_authentication
