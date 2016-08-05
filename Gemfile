@@ -50,3 +50,7 @@ group :development do
   gem 'spring'
 end
 
+#Add boostrap library for styles
+gem 'bootstrap-sass', '~> 3.3.6'
+
+
